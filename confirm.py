@@ -110,5 +110,5 @@ res = session.post(logout_url, data=logout_param)
 #print(res.text)
 
 # Wait
-print('Press Any Key')
-input()
+#print('Press Any Key')
+#input()
