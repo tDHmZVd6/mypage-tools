@@ -1,8 +1,10 @@
-�Elogin_info�FID�ƃp�X���[�h���L�q����t�@�C��
+【設定ファイル】
+・login_info：IDとパスワードを記述するファイル
 
-�Econfirm.py�F�m�F�{�^���������I�ɉ����Ă����c�[��
-�EKyuuka.py�F�R�[�h�ɋL�q���ꂽ���t���A�ꊇ�ŋΖ��s�ɐݒ肷��c�[��
-�Eset_schedule.py�F�Ζ��A�s���ꊇ�Őݒ肷��c�[��(���`�����Ζ��ɁA�y�����Ζ��s�ɐݒ肷��B�j���͖��Ή�)
+【コード】
+・confirm.py：確認ボタンを自動的に押してくれるツール
+・Kyuuka.py：コードに記述された日付を、一括で勤務不可に設定するツール
+・set_schedule.py：翌月の勤務可、不可を一括で設定するツール(月～金を勤務可に、土日を勤務不可に設定する。祝日の勤務不可設定は未対応)
 
-���R�[�h�̈Ӗ����킩��Ȃ��l�͐G��Ȃ��ł�������
-���g�p����ꍇ�͎��ȐӔC�ł��肢���܂�
+※コードの意味がわからない人は触らないでください
+※使用する場合は自己責任でお願いします
